@@ -21,6 +21,6 @@ This project is an automation script built with Selenium and Node.js. The script
 6. After order is placed, the browser window remains open for 10 seconds and then closes. If u want to change the timer then u can change values at line 149 in script file.
 
 ## Contact
-Made by- Vishal Kumar Singh
-Email- vishalkumar.singh12@yahoo.com
-Github profile- https://github.com/albedo121
+1. Made by- Vishal Kumar Singh
+2. Email- vishalkumar.singh12@yahoo.com
+3. Github profile- https://github.com/albedo121
