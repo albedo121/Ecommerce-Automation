@@ -6,7 +6,6 @@ This project is an automation script built with Selenium and Node.js. The script
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Prerequisites](#prerequisites)
 - [Contact](#contact)
 
 ## Installation
