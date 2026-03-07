@@ -19,8 +19,3 @@ This project is an automation script built with Selenium and Node.js. The script
 4. After executing, the script will log in to the test ecommerce site, place an order, and display the order ID in the console.
 5. Sometimes the script may fail at certain point. In that case please rerun the script.
 6. After order is placed, the browser window remains open for 10 seconds and then closes. If u want to change the timer then u can change values at line 149 in script file.
-
-## Contact
-1. Made by- Vishal Kumar Singh
-2. Email- vishalkumar.singh12@yahoo.com
-3. Github profile- https://github.com/albedo121
